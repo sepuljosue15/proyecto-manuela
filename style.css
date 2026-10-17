@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+header, footer {
+  background: #571B12;
+  color: rosybrown;
+  text-align: center;
+  padding: 1rem;
+}
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+.barra {
+  display: flex;
+  align-items: center;
+  background: #571B12;
+  padding: 0.5rem 1rem;
+}
+
+.logo {
+  width: 80px;
+  height: auto;
+  display: block;
+}
+
+.enlace-wpp {
+  margin-left: auto;
+}
+
+.wpp {
+  width: 80px;
+  height: auto;
+  display: block;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+body {
+      background: pink;
+}
+
+.promo {
+  display: block;
+  margin: 0 auto;
+  width: 300px; /* ajusta tú el tamaño */
+  height: auto;
+}
+.c2 {
+  display: block;
+  margin: 0 auto; /* ajusta tú el tamaño */
+  height: auto;
+  position: absolute;
+  top: 485px;    /* distancia desde arriba */
+  left: 900px;   /* distancia desde la izquierda */
+  width: 225px;  /* tamaño de la imagen */
+  height: auto;
+}
